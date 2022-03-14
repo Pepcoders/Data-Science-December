@@ -1,3 +1,10 @@
+# https://devcenter.heroku.com/articles/getting-started-with-python
+# heroku create web-app-name
+# git init
+# git add *
+# git commit -m 'some message'
+# get push heroku master
+
 import streamlit as st
 import pandas as pd
 import numpy as np
